@@ -48,3 +48,4 @@ void lyndon_generate(int n, int m) {
     for (x = n; s[x - 1] == z; --x);
   }
 }
+ 
